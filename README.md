@@ -19,12 +19,13 @@ Steps for prediction which i'm using:
 
 
 #Stock market prediction 
-file==untitled(1)
+file==untitled8(1)
 Tesla dataset(tesla.csv)
 i was used Linearregression model in it.
 
 
 #Stock market prediction
+file='untitled(1)'
 Dataset='Uniqlo(FastRetailing) 2012-2016 Training - stocks2012-2016'
 Graph between actual amd predicted stock price
 test data of year 2017
