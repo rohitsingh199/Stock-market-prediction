@@ -18,10 +18,24 @@ Steps for prediction which i'm using:
 
 
 
+
+
+
 #Stock market prediction 
 file==untitled8(1)
 Tesla dataset(tesla.csv)
 i was used Linearregression model in it.
+
+
+
+
+
+
+
+
+
+
+
 
 
 #Stock market prediction
