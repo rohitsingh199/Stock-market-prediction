@@ -11,10 +11,6 @@ Steps for prediction which i'm using:
 3.Create An Stacked LSTM model.
 4.predict the test data and plot the output.
 5.predict the future 30 days and plot the output.
-
-
-
-
-Stock market prediction 
+#Stock market prediction 
 Tesla dataset(tesla.csv)
 i was used Linearregression model in it.
